@@ -1,10 +1,13 @@
 # The Avocado Project <img src="https://i.gyazo.com/c1271e12fd67c1351622aa893bccfefc.png" width="50">
 
 If you would like to see our presentation, please [click here!](https://github.com/kmanning1224/Project1-Repo/blob/master/Avocado%20Presentation.pptx)
+This is my personal mirror site, if you would like to go to the full team repo, please [click here!]( https://github.com/kmanning1224/Project1-Repo)
+
 ### Our team sought to get to the creamy, delicious, seeded world of avocados in the US to answer the following…
 
 ### General Hypotheses:
 H0: There is no difference in the various aspects of avocados studied throughout the year, despite factors.
+
 HA: There IS a difference in various aspects of avocados studied throughout the year according to several factors.
 
 ### Questions Reviewed:
