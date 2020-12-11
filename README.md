@@ -71,7 +71,6 @@ HA: There IS a difference in various aspects of avocados studied throughout the 
 <img src="https://github.com/kmanning1224/Project1-Repo/blob/master/Dawn%20Data/XLarge_Avocado_ByRegion_Plot.png" width="900">
 <img src="https://github.com/kmanning1224/Project1-Repo/blob/master/Dawn%20Data/Total_Bags_Avocado_ByRegion_Plot.png" width="900">
 
-
 ####	How do the prices of conventional avocados compare to organic?
 
 *Jupyter Notebook for this [here](https://github.com/kmanning1224/Project1-Repo/blob/master/Avocado%20Data%20-K/data/Comparisons.ipynb)*
@@ -121,7 +120,6 @@ We were amazed to find a discrepancy in the data of the avocado file.  Mostly a
 
 * After cleaning, compiling, and organizing the relevant datasets we can see that Organic Avocados are consistently more expensive than Conventional Avocados.
 Conversely, we see that Conventional Avocados have a higher average volume sold than Organic.These results pose an inverse relationship between cost and units sold ultimately suggesting that the lower cost leads to higher sales.
-
 
 ## Works Cited
 
